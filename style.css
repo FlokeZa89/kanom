@@ -100,6 +100,20 @@
     font-size: 20px;
 
   }
+
+  #div1 {
+    width: 800px;
+    height: 1000px;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+    border-radius: 8px;
+    margin: 50px;
+    padding: 40px;
+    background-color: rgb(168, 108, 68);
+    overflow: hidden;
+    color: #fff;
+    font-size: 20px;
+
+  }
 body{
     direction: ltr;
     margin: 4.5rem 0 0 0;
